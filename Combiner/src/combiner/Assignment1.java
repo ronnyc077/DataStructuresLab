@@ -12,7 +12,7 @@ public class Assignment1 {
 			
 while(true) {
 	
-	System.out.println("Pick an option");
+	System.out.println("Pick an option from below three");
 	System.out.println("1. Add two Integers");
 	System.out.println("2. Concatenate Strings");
 	System.out.println("3. Exit");
